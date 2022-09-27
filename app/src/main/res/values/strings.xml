@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Running App</string>
+    <string name="google_map_key">AIzaSyDqxjK-8RC3D316zSgdDLWHdNZevj4dYSY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
