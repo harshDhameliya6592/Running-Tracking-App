@@ -1,7 +1,6 @@
 package com.runningapp.app.runningapp
 
 import android.app.Application
-import android.util.Log
 import dagger.hilt.android.HiltAndroidApp
 import timber.log.Timber
 
@@ -13,6 +12,8 @@ class BaseApplication:Application() {
         Timber.plant(Timber.DebugTree())
 
         Log.e("TAG Data", "onCreate: " )
+
+        Log.e("TAG", "onCreate: " )
 
     }
 
